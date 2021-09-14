@@ -1,6 +1,5 @@
 # GBC-Machine_Learning
 Github Assignment
 Collaborators:
-Naman Sharma
+Naman Sharma &
 Harsh Gupta
-Pratiksha Murkey
